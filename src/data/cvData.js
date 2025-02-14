@@ -108,4 +108,4 @@ export const techStacks_icons = [
   { src: "/icons/astro.svg", alt: "Astro" },
 ];
 
-export const lastUpdated = "2025-02-11";
+export const lastUpdated = "2025-02-14";
